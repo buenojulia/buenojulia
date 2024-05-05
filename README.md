@@ -1,4 +1,6 @@
-### Hi there 👋
+## Olá, eu sou a Julia Bueno!
+##### Advogada e aprendiz de programadora, bora lá?
+
 
 <!--
 **buenojulia/buenojulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
