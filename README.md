@@ -1,5 +1,5 @@
 ## Olá, eu sou a Julia Bueno!
-##### Advogada e aprendiz de programadora, bora codar?
+##### Advogada e programadora em formação, bora codar?
 
 
 ### Minhas skills atualmente:
