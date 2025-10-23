@@ -1,12 +1,41 @@
-## Olá, eu sou a Julia Bueno!
-##### Advogada e programadora em formação, bora codar?
+# Olá, eu sou a Julia Bueno! 👋
+
+Sou **advogada** e **programadora em formação**, apaixonada por tecnologia, inovação e por criar soluções que unam o mundo jurídico e o digital. Bora codar? 💻✨
+
+---
+
+## 🔧 Minhas Skills Atuais
+
+- **Frontend:** HTML, CSS
+          <div style="display: inline_block">
+          <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          </div>
+
+- **Aprendendo:** JavaScript, Python, Desenvolvimento Web Fullstack
+  
+- **Ferramentas & Conceitos:** Git, GitHub, Lógica de Programação, Paradigmas de Programação
+
+---
+
+## 💡 Sobre mim
+- Sempre buscando **inovação e soluções criativas** na interseção de Direito e Tecnologia  
+- Curiosa por novas tecnologias, frameworks e ferramentas que possam facilitar processos e projetos  
+- Amante de desafios, hackathons e projetos open source
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/julia-bueno)  
 
 
-### Minhas skills atualmente:
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+
+
+
+
+
+
 
 
 <!--
